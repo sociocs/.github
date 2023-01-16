@@ -7,7 +7,10 @@ Sociocs is customer communication tool for businesses. It offers a single inbox 
 - Information website
   - https://www.sociocs.com
   - https://bit.ly/3BwCCQt
-  - https://sociocs.page.link/home
+
+- Blog: https://sociocs.page.link/zRx8
+
+- Medium: http://sociocs.medium.com/
 
 - Web app: https://app.sociocs.com
 
